@@ -1,5 +1,30 @@
 # Python-Library-Project
-This is a Project from UTH class 'Python Programming' 
+This is a Project from UTH class 'Python Programmig'
+
+This project is a comprehensive Library Management System developed using Python and the Pandas library. It provides functionalities for both users and administrators to manage books, accounts, and orders in a library. The system includes:
+
+### Key Features
+
+- **User Account Management**: Users can create accounts, log in, and manage their personal details, including password updates and account balance adjustments.
+- **Book Management**: Administrators can add, update, and delete book entries. Users can view available books, add books to their favorites, and place orders.
+- **Review and Rating System**: Users can add, view, and delete reviews for books they have purchased.
+- **Order Management**: Users can manage their orders, including placing new orders and viewing past orders.
+- **Favorites and Recommendations**: Users can add books to their favorites list and receive recommendations based on their favorite categories.
+- **CSV Integration**: The system supports CSV file uploads and downloads for easy data management.
+
+### Installation
+
+To get started with the Library Management System, clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/your-username/library-management-system.git
+cd library-management-system
+pip install -r requirements.txt
+```
+
+### Usage
+
+The system is designed for ease of use, with a clear distinction between user and admin functionalities. Users can register, log in, and explore the library's offerings, while admins have full control over the system's data.
 
 ---
 
