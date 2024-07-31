@@ -1,6 +1,5 @@
 # Python-Library-Project
 This is a Project from UTH class 'Python Programming' 
-Here's the translation of the provided Greek text into English:
 
 ---
 
@@ -87,4 +86,3 @@ All questions are answered below, and I have listed all the functions for easier
 
 ---
 
-Let me know if you need any more translations or details!
