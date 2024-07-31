@@ -1,0 +1,4 @@
+id,title,author,publisher,categories,cost,shipping_cost,availability,copies,bookstores,review_rating,review_comment,reviews
+51,The Kite Runner,Khaled Hosseini,Riverhead Books,"['fiction', 'drama']",12.0,2.5,True,10,"{'Store 1': 5, 'Store 2': 5}"
+52,The Alchemist,Paulo Coelho,HarperTorch,"['fiction', 'fantasy']",10.0,2.0,True,15,"{'Store 1': 8, 'Store 3': 7}"
+53,The Catch-22,Joseph Heller,Simon & Schuster,"['fiction', 'classic']",11.0,2.3,True,12,"{'Store 2': 6, 'Store 4': 6}"

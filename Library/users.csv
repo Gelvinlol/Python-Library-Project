@@ -1,0 +1,7 @@
+id,username,password,address,city,orders,favorites,balance
+1,Alice,password1234!,123 Maple St,Springfield,"[1, 2, 4]","[12, 5]",101.5
+2,bob,bobpass456!,456 Elm St,Springfield,"[1]","[2, 1, 4]",50.5
+3,boby,bobypass456@,789 Oak St,Springfield,"[10]","[2, 1, 4]",44.0
+4,sara,sarapass456$,101 Pine St,Springfield,"[]","[2, 1, 4]",50.5
+5,maria,mariapass456!,202 Birch St,Springfield,"[]","[2, 1, 4]",50.5
+6,john,Johnpass123@,303 Cedar St,Springfield,"[3, 6]","[8, 2]",75.0
